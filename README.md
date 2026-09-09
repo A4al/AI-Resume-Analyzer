@@ -155,7 +155,7 @@ Python 3.10+
 Git
 Google Gemini API Key
 1. Clone the Repository
-git clone https://github.com/your-username/AI-Resume-Analyzer.git
+git clone https://github.com/A4al/AI-Resume-Analyzer.git
 2. Navigate to the Project
 cd AI-Resume-Analyzer
 3. Create a Virtual Environment
